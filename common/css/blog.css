@@ -1,0 +1,67 @@
+/* Adapted from http://betterm*****f***ingwebsite.com */
+
+body {
+	margin: 40px auto; 
+	max-width: 720px;
+	line-height: 1.6;
+	font-size: 18px;
+	color: #222;
+	padding: 0 10px;
+
+	background-color: rgb(235, 234, 230);
+	font-family: sans-serif;
+}
+
+h1,h2,h3 {
+	line-height: 1.2;
+}
+
+.meta {
+	opacity: 0.5;
+	text-align: right;
+}
+
+footer {
+	padding-top: 8px;
+	margin-bottom: 16px;
+}
+
+.footer-flex {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.fpo {
+	margin-bottom: 0;
+}
+
+.fpu {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.flink {
+	display: flex;
+	flex-direction: row;
+	color: dimgrey;
+	text-decoration: none;
+	justify-content: center;
+}
+
+.flink:hover {
+	text-decoration: underline;
+}
+
+.flink:focus {
+	text-decoration: underline;
+}
+
+.fnolink {
+	visibility: hidden;
+}
+
+.kofi-link {
+	opacity: 0.5;
+}
