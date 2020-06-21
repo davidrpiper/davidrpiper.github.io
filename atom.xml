@@ -1,1 +1,61 @@
-Coming soon!
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Piper's Blog</title>
+  <subtitle>A blog by David Piper</subtitle>
+  <author>
+    <name>David Piper</name>
+    <email>dpiper.public@gmail.com</email>
+  </author>
+  <link href="https://pipers.blog/" rel="self" />
+  <id>urn:uuid:6018DCD4-2BBD-45D6-8745-c0deba55c1ef</id>
+  <updated>2020-06-21T12:12:52Z</updated>
+
+  <entry>
+    <title>Origin</title>
+    <link rel="alternate" type="text/html" href="https://pipers.blog/origin"/>
+    <id>urn:uuid:91E46AE3-31A8-45D7-A7C6-A7B63DED99D4</id>
+    <updated>2020-07-21T00:00:00Z</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <h1>Origin</h1><p>I realised one day that the answer to the question "Who actually cares?" doesn't matter.</p><p>So, I'm writing a blog.</p><p>If you've found your way here, happy reading. Hopefully there will be something worthwhile in here for you.</p>
+      </div>
+    </content>
+    <author>
+      <name>David Piper</name>
+      <email>dpiper.public@gmail.com</email>
+    </author>
+  </entry>
+  <entry>
+    <title>The English alphabet is a singly-linked list</title>
+    <link rel="alternate" type="text/html" href="https://pipers.blog/alphabet"/>
+    <id>urn:uuid:C0334BF2-8512-45F9-BFC5-602F9F258BB1</id>
+    <updated>2020-07-02T00:00:00Z</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <h1>The English alphabet is a singly-linked list</h1><p>Some people go to the trouble of implementing a doubly linked list for their own internal use. But certainly the most commonly used, taught and learnt implementation of the English Alphabet is a singly linked list.</p>
+      </div>
+    </content>
+    <author>
+      <name>David Piper</name>
+      <email>dpiper.public@gmail.com</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Force field</title>
+    <link rel="alternate" type="text/html" href="https://pipers.blog/force-field"/>
+    <id>urn:uuid:E624476B-6726-4B91-B8C0-1E602DEF3183</id>
+    <updated>2020-07-30T00:00:00Z</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <h1>Force field</h1><p>The term 'force field' (in the context of science fiction) is wonderfully self-descriptive.</p><p>It's a field of force that fields force.</p>
+      </div>
+    </content>
+    <author>
+      <name>David Piper</name>
+      <email>dpiper.public@gmail.com</email>
+    </author>
+  </entry>
+
+
+</feed>
