@@ -16,12 +16,39 @@
 </head>
 <body>
 <h1>Origin</h1>
-<p class="meta">1 Jul, 2020 ⏳ 30 second read</p>
-<p>I realised one day that the answer to the question "Who actually cares?" doesn't matter.</p>
+<p class="meta">1 Jul, 2020 ⏳ 1 minute read</p>
+<p>Welcome to my blog! This site is built with my own custom site generator, so I thought I'd use this first post to describe how it works.</p>
 
-<p>So, I'm writing a blog.</p>
+<p>There are three GitHub repos for this blog. It could potentially be condensed into a single repo but it felt cleaner to split it up into its logical parts.</p>
 
-<p>If you've found your way here, happy reading. Hopefully there will be something worthwhile in here for you.</p>
+<ol>
+<li>The Github Pages repository</li>
+<li>The Blog Reel</li>
+<li>The Site Generator</li>
+</ol>
+
+<h3>The Github Pages repository</h3>
+
+<p>This is what you're seeing - it's the repo that contains the website tree. Github Pages now supports HTTPS with custom domains too! 🎉</p>
+
+<h3>The Blog Reel</h3>
+
+<p>This is a flat repo of markdown files with the individual posts. They're named in a way that forces both alphabetical and chronological order - for example, this file is named <code>00001-origin.md</code>. There's also a folder called <code>assets</code>, which will
+hold what it says one day soon.</p>
+
+<p>The markdown files actaully start with a bit of HTTP-esque metadata for things like url, title, tags, publish date, etc. Most of this is really only needed to keep the Atom feed happy.</p>
+
+<p>Then there's an empty line, and then the markdown starts.</p>
+
+<h3>The Site Generator</h3>
+
+<p>The site generator repo contains scripts to build the site from the blog reel. It pulls the blog reel down, feeds it through about 300 lines of Python and generates the full HTML tree for the blog.</p>
+
+<p>The markdown to HTML conversion happens in a single line. The rest of the Python code is a combination of extracting data from the raw posts and using a poor-man's HTML templating system ~definitely not just find-and-replacing pre-defined symbols~ to generate the home page, the Atom feed, and all the blog post pages, with sequential links.</p>
+
+<p>The full HTML tree is then copied into the Github Pages repo, committed and pushed.</p>
+
+<p>And that's it!</p>
 
 	<footer>
 		<div class="footer-flex">

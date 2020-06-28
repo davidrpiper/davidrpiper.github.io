@@ -9,16 +9,16 @@
   </author>
   <link href="https://pipers.blog/" rel="self" />
   <id>urn:uuid:6018DCD4-2BBD-45D6-8745-c0deba55c1ef</id>
-  <updated>2020-06-23T07:03:45Z</updated>
+  <updated>2020-06-28T09:58:57Z</updated>
 
   <entry>
     <title>Origin</title>
     <link rel="alternate" type="text/html" href="https://pipers.blog/origin"/>
     <id>urn:uuid:91E46AE3-31A8-45D7-A7C6-A7B63DED99D4</id>
-    <updated>2020-07-21T00:00:00Z</updated>
+    <updated>2020-07-01T00:00:00Z</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
-        <h1>Origin</h1><p>I realised one day that the answer to the question "Who actually cares?" doesn't matter.</p><p>So, I'm writing a blog.</p><p>If you've found your way here, happy reading. Hopefully there will be something worthwhile in here for you.</p>
+        <h1>Origin</h1><p>Welcome to my blog! This site is built with my own custom site generator, so I thought I'd use this first post to describe how it works.</p><p>There are three GitHub repos for this blog. It could potentially be condensed into a single repo but it felt cleaner to split it up into its logical parts.</p><ol><li>The Github Pages repository</li><li>The Blog Reel</li><li>The Site Generator</li></ol><h3>The Github Pages repository</h3><p>This is what you're seeing - it's the repo that contains the website tree. Github Pages now supports HTTPS with custom domains too! 🎉</p><h3>The Blog Reel</h3><p>This is a flat repo of markdown files with the individual posts. They're named in a way that forces both alphabetical and chronological order - for example, this file is named <code>00001-origin.md</code>. There's also a folder called <code>assets</code>, which willhold what it says one day soon.</p><p>The markdown files actaully start with a bit of HTTP-esque metadata for things like url, title, tags, publish date, etc. Most of this is really only needed to keep the Atom feed happy.</p><p>Then there's an empty line, and then the markdown starts.</p><h3>The Site Generator</h3><p>The site generator repo contains scripts to build the site from the blog reel. It pulls the blog reel down, feeds it through about 300 lines of Python and generates the full HTML tree for the blog.</p><p>The markdown to HTML conversion happens in a single line. The rest of the Python code is a combination of extracting data from the raw posts and using a poor-man's HTML templating system ~definitely not just find-and-replacing pre-defined symbols~ to generate the home page, the Atom feed, and all the blog post pages, with sequential links.</p><p>The full HTML tree is then copied into the Github Pages repo, committed and pushed.</p><p>And that's it!</p>
       </div>
     </content>
     <author>
@@ -33,7 +33,7 @@
     <updated>2020-07-02T00:00:00Z</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
-        <h1>The English alphabet is a singly-linked list</h1><p>Some people go to the trouble of implementing a doubly linked list for their own internal use. But certainly the most commonly used, taught and learnt implementation of the English Alphabet is a singly linked list.</p>
+        <h1>The English alphabet is a singly-linked list</h1><p>It occurred to me the other day that one of the most common uses of a singly-linked list is the English alphabet.</p><p>At least, I've never memorised it backwards. Even if I did, I suppose I'd only have two singly-linked lists without more practice anyway.</p>
       </div>
     </content>
     <author>
@@ -42,13 +42,28 @@
     </author>
   </entry>
   <entry>
-    <title>Force field</title>
+    <title>"Force field"</title>
     <link rel="alternate" type="text/html" href="https://pipers.blog/force-field"/>
     <id>urn:uuid:E624476B-6726-4B91-B8C0-1E602DEF3183</id>
-    <updated>2020-07-30T00:00:00Z</updated>
+    <updated>2020-07-03T00:00:00Z</updated>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
-        <h1>Force field</h1><p>The term 'force field' (in the context of science fiction) is wonderfully self-descriptive.</p><p>It's a field of force that fields force.</p>
+        <h1>"Force field"</h1><p>In science fiction, the term "force field" is wonderfully self-descriptive.</p><p>It's a field of force that fields force.</p>
+      </div>
+    </content>
+    <author>
+      <name>David Piper</name>
+      <email>dpiper.public@gmail.com</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Magic Carpet Rag</title>
+    <link rel="alternate" type="text/html" href="https://pipers.blog/magic-carpet-rag"/>
+    <id>urn:uuid:079C718D-8ECF-476E-AEDE-3279BAD77022</id>
+    <updated>2020-07-04T00:00:00Z</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <h1>Magic Carpet Rag</h1><p>A few weeks ago I finished writing my second piano ragtime!</p><p>It's called <a href="https://musescore.com/davidpiper/magic-carpet-rag">Magic Carpet Rag</a>.</p><p>Check it out, if you're into that sort of thing. Hope you enjoy it!</p>
       </div>
     </content>
     <author>
