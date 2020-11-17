@@ -9,7 +9,7 @@
   </author>
   <link href="https://pipers.blog/" rel="self" />
   <id>urn:uuid:6018DCD4-2BBD-45D6-8745-c0deba55c1ef</id>
-  <updated>2020-10-27T09:13:12Z</updated>
+  <updated>2020-11-17T09:26:14Z</updated>
 
   <entry>
     <title>Origin</title>
@@ -79,6 +79,21 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <h1>Reading the writing on the wall</h1><p>I've been playing a lot of <a href="https://en.wikipedia.org/wiki/Go_(game)">Go</a> recently, and catching up on the progress of Go AIs since <a href="https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol">AlphaGo beat Lee Sedol 4-1</a> in March 2016. That "1" was probably the last game a human will ever win against top Go AIs.</p><p>In the last few years, humans have been learning from robots. New shapes and strategies have been discovered and some very old strategies have made a comeback. Some Go AIs are able to provide move-by-move "win percentages" which are enormously helpful for evaluating moves in game reviews. There are caveats though - there is a duality to learning and teaching, and AIs are taught how to play Go, not how to teach it.</p><p>Normally (in the sense of "norms" vs. "rules") it is polite to resign a game when it has become clear you cannot win.</p><p>But the thing is: how do you <em>know</em>?</p><p>A stronger player will generally know before a weaker player, and a robot will likely "know" well before most humans. Even players of the same strength may have different opinions depending on their skill in different aspects of the game. Which means in many games there is a time when one player knows the game is over, but the other player hasn't realised yet and continues playing.</p><p>This reminded me of a quote from Iain M. Banks' <em>The Player of Games</em>. At this point in the story, Gurgeh - the main character - is many days into an immensely large and difficult game of strategy with the (other) greatest game player in the galaxy, Emperor Nicosar. After weeks of play:</p><blockquote>  <p><em>It goes on until it ends</em>, Gurgeh thought to himself one day, and at the same time as the banality of the thought struck him, he saw that it was over. The climax had been reached. It was done, destroyed, could be no more. It was not finished, but it was over. A terrible sadness swamped him, took hold of him like a piece and made him sway and nearly fall, so that he had to walk to his seat and pull himself on to it like an old man.</p></blockquote><blockquote>  <p>'Oh...' he heard himself say.</p></blockquote><blockquote>  <p>He looked at Nicosar, but the emperor hadn't seen it yet.</p></blockquote><blockquote>  <p>...</p></blockquote><blockquote>  <p>Gurgeh couldn't believe it. The game was over; couldn't <em>anybody</em> see that? He looked despairingly around the faces of the officials, the spectators, the observers and Adjudicators. What was wrong with them all? He looked back at the board, hoping desperately that he might have missed something, made some mistake that meant there was still something Nicosar could do, that the perfect dance might last a little longer. He could see nothing. It was done.</p></blockquote><p>The writing is on the wall whether you can read it or not.</p>
+      </div>
+    </content>
+    <author>
+      <name>David Piper</name>
+      <email>dpiper.public@gmail.com</email>
+    </author>
+  </entry>
+  <entry>
+    <title>So open-minded that our brains fall out</title>
+    <link rel="alternate" type="text/html" href="https://pipers.blog/brains-fall-out"/>
+    <id>urn:uuid:A64B2217-1CAD-44A4-87EB-01F45A85210F</id>
+    <updated>2020-11-17T00:00:00Z</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <h1>So open-minded that our brains fall out</h1><p>I've been thinking about this a lot lately, and finally tracked down the original source:</p><blockquote>  <p>Let us keep our minds open, by all means, as long as that means keeping our sense of perspective and seeking an understanding of the forces which mould the world. <em>But don’t keep your minds so open that your brains fall out!</em> There are still things in this world which are true and things which are false; acts which are right and acts which are wrong, even if there are statesmen who hide their designs under the cloak of high-sounding phrases.</p></blockquote><blockquote>  <p>— Walter Kotschnig, November 8, 1939</p></blockquote><p>Coincidentally, I'm part way through <a href="https://www.goodreads.com/book/show/34890015-factfulness"><em>Factfulness</em>, by Hans Rosling</a>.</p>
       </div>
     </content>
     <author>
