@@ -5,7 +5,7 @@ body {
 	max-width: 700px;
 	line-height: 1.6;
 	font-size: 18px;
-	color: rgb(51 65 85); /* #222 */
+	color: black; /* rgb(51 65 85); *//* #222 */
 	padding: 0 10px;
 
 	background-color: rgb(229, 231, 235); /*rgb(235, 234, 230);*/
