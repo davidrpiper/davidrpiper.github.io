@@ -28,7 +28,6 @@ header {
 	padding-bottom: 8px;
 
 	border-bottom: 2px solid black;
-	border-radius: 4px;
 }
 
 .header-avatars {
@@ -279,7 +278,6 @@ section {
 	padding: 8px 0;
 
 	border-top: 2px solid black;
-	border-radius: 4px;
 }
 
 /* List Section */
@@ -355,7 +353,7 @@ section {
 	min-width: 100px;
 	max-width: 100px;
 
-	margin-right: 8px;
+	margin-right: 16px;
 	color: grey;
 }
 
