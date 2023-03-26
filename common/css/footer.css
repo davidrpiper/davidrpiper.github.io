@@ -1,0 +1,33 @@
+footer {
+	width: 100%;
+}
+
+footer hr {
+	background-color: gray;
+}
+
+.footer-wraper {
+	display: flex;
+	flex-direction: column;
+}
+
+.footer-content {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+
+	margin: auto 12px;
+}
+
+#ow-me-foot {
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+    color: grey;
+}
+
+#ow-me-foot:hover {
+	color: rgb(150, 0, 0);
+}
