@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>Piper's Blog</title>
-  <subtitle>A blog by David Piper</subtitle>
+  <title>David's Town</title>
+  <subtitle>David Piper's Website</subtitle>
   <author>
     <name>David Piper</name>
     <email>dpiper.public@gmail.com</email>
   </author>
-  <link href="https://pipers.blog/" rel="self" />
+  <link href="https://davids.town/" rel="self" />
   <id>urn:uuid:6018DCD4-2BBD-45D6-8745-c0deba55c1ef</id>
-  <updated>2023-04-02T06:48:09Z</updated>
+  <updated>2023-04-02T07:02:48Z</updated>
 
   <entry>
     <title>Origin</title>
-    <link rel="alternate" type="text/html" href="https://pipers.blog/origin"/>
+    <link rel="alternate" type="text/html" href="https://davids.town/origin"/>
     <id>urn:uuid:91E46AE3-31A8-45D7-A7C6-A7B63DED99D4</id>
     <updated>2020-07-01T00:00:00Z</updated>
     <content type="xhtml">
@@ -28,7 +28,7 @@
   </entry>
   <entry>
     <title>The English alphabet is a singly-linked list</title>
-    <link rel="alternate" type="text/html" href="https://pipers.blog/alphabet"/>
+    <link rel="alternate" type="text/html" href="https://davids.town/alphabet"/>
     <id>urn:uuid:C0334BF2-8512-45F9-BFC5-602F9F258BB1</id>
     <updated>2020-07-02T00:00:00Z</updated>
     <content type="xhtml">
@@ -43,7 +43,7 @@
   </entry>
   <entry>
     <title>"Force field"</title>
-    <link rel="alternate" type="text/html" href="https://pipers.blog/force-field"/>
+    <link rel="alternate" type="text/html" href="https://davids.town/force-field"/>
     <id>urn:uuid:E624476B-6726-4B91-B8C0-1E602DEF3183</id>
     <updated>2020-07-03T00:00:00Z</updated>
     <content type="xhtml">
@@ -58,7 +58,7 @@
   </entry>
   <entry>
     <title>Magic Carpet Rag</title>
-    <link rel="alternate" type="text/html" href="https://pipers.blog/magic-carpet-rag"/>
+    <link rel="alternate" type="text/html" href="https://davids.town/magic-carpet-rag"/>
     <id>urn:uuid:079C718D-8ECF-476E-AEDE-3279BAD77022</id>
     <updated>2020-07-04T00:00:00Z</updated>
     <content type="xhtml">
@@ -73,7 +73,7 @@
   </entry>
   <entry>
     <title>Reading the writing on the wall</title>
-    <link rel="alternate" type="text/html" href="https://pipers.blog/reading-the-writing-on-the-wall"/>
+    <link rel="alternate" type="text/html" href="https://davids.town/reading-the-writing-on-the-wall"/>
     <id>urn:uuid:56EDC3E6-0A68-432C-80EC-B49781200EE0</id>
     <updated>2020-10-27T00:00:00Z</updated>
     <content type="xhtml">
@@ -88,7 +88,7 @@
   </entry>
   <entry>
     <title>So open-minded that our brains fall out</title>
-    <link rel="alternate" type="text/html" href="https://pipers.blog/brains-fall-out"/>
+    <link rel="alternate" type="text/html" href="https://davids.town/brains-fall-out"/>
     <id>urn:uuid:A64B2217-1CAD-44A4-87EB-01F45A85210F</id>
     <updated>2020-11-17T00:00:00Z</updated>
     <content type="xhtml">
@@ -103,7 +103,7 @@
   </entry>
   <entry>
     <title>In His Image</title>
-    <link rel="alternate" type="text/html" href="https://pipers.blog/in-his-image"/>
+    <link rel="alternate" type="text/html" href="https://davids.town/in-his-image"/>
     <id>urn:uuid:364290DD-6DC1-47FE-840B-9D2595F539AF</id>
     <updated>2021-03-06T00:00:00Z</updated>
     <content type="xhtml">
@@ -118,7 +118,7 @@
   </entry>
   <entry>
     <title>Could the sun be invisible?</title>
-    <link rel="alternate" type="text/html" href="https://pipers.blog/invisible-sun-nerd-snipe"/>
+    <link rel="alternate" type="text/html" href="https://davids.town/invisible-sun-nerd-snipe"/>
     <id>urn:uuid:7A890B89-1E84-414C-9F27-8F5AE53470DE</id>
     <updated>2021-11-06T00:00:00Z</updated>
     <content type="xhtml">
@@ -133,7 +133,7 @@
   </entry>
   <entry>
     <title>La Nuit de Noël</title>
-    <link rel="alternate" type="text/html" href="https://pipers.blog/la-nuit-de-noel"/>
+    <link rel="alternate" type="text/html" href="https://davids.town/la-nuit-de-noel"/>
     <id>urn:uuid:4EC80362-B19C-4E2C-BE77-AEBB869E9452</id>
     <updated>2021-12-25T00:00:00Z</updated>
     <content type="xhtml">
@@ -148,7 +148,7 @@
   </entry>
   <entry>
     <title>Stop being meta</title>
-    <link rel="alternate" type="text/html" href="https://pipers.blog/stop-being-meta"/>
+    <link rel="alternate" type="text/html" href="https://davids.town/stop-being-meta"/>
     <id>urn:uuid:17B7799D-2139-4F6C-A68C-F9B97A157581</id>
     <updated>2022-01-03T00:00:00Z</updated>
     <content type="xhtml">
@@ -163,7 +163,7 @@
   </entry>
   <entry>
     <title>Make it so good that it ruins everything else for you</title>
-    <link rel="alternate" type="text/html" href="https://pipers.blog/good-ruins"/>
+    <link rel="alternate" type="text/html" href="https://davids.town/good-ruins"/>
     <id>urn:uuid:3A1EEE28-9A22-4EB5-954E-1CF73ADEC426</id>
     <updated>2022-10-30T00:00:00Z</updated>
     <content type="xhtml">
@@ -178,7 +178,7 @@
   </entry>
   <entry>
     <title>The Maths of a Vitamin B6 Overdose</title>
-    <link rel="alternate" type="text/html" href="https://pipers.blog/vitamin-b6-overdose"/>
+    <link rel="alternate" type="text/html" href="https://davids.town/vitamin-b6-overdose"/>
     <id>urn:uuid:7C071141-56C0-4A4F-866C-78303E370AA4</id>
     <updated>2022-11-16T00:00:00Z</updated>
     <content type="xhtml">
