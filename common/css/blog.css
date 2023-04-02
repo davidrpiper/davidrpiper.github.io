@@ -1,68 +1,44 @@
-/* Adapted from http://betterm*****f***ingwebsite.com */
-
 body {
-	margin: 40px auto; 
-	max-width: 700px;
+	font-family: sans-serif;
+	/* font-family: 'Alegreya'; */
+}
+
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+	margin: 16px auto;
+	max-width: 1024px;
+}
+
+section {
+	width: 95%;
+	max-width: 980px;
+	margin: 0 8px 8px 8px;
+
 	line-height: 1.6;
 	font-size: 18px;
-	padding: 0 10px;
-
-	font-family: sans-serif;
-/*	font-family: 'Alegreya';*/
 }
 
 h1,h2,h3 {
 	line-height: 1.2;
 }
 
-.meta {
-	opacity: 0.5;
-	text-align: right;
-}
-
-footer {
-	padding-top: 8px;
-	margin-bottom: 16px;
-}
-
-.footer-flex {
-	display: flex;
-	flex-direction: row;
-	align-items: center;
-	justify-content: space-between;
-}
-
-.fpo {
-	margin-bottom: 0;
-}
-
-.fpu {
-	margin-top: 0;
-	margin-bottom: 0;
-}
-
-.flink {
-	display: flex;
-	flex-direction: row;
-	color: dimgrey;
-	text-decoration: none;
-	justify-content: center;
-}
-
-.flink:hover {
-	text-decoration: underline;
-}
-
-.flink:focus {
-	text-decoration: underline;
-}
-
-.fnolink {
-	visibility: hidden;
-}
-
 img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+.post-header {
+	display: flex;
+	flex-direction: row;
+	align-items: last baseline;
+}
+
+.meta {
+	opacity: 0.5;
+	margin-left: 8px;
+	min-width: 106px;
 }
