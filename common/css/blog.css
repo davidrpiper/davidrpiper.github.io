@@ -39,6 +39,10 @@ img {
 	align-items: last baseline;
 }
 
+.post-header > * {
+	margin-bottom: 0;
+}
+
 .meta {
 	opacity: 0.5;
 	margin-left: 8px;
