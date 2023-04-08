@@ -77,7 +77,6 @@ header hr {
 	display: flex;
 	flex-direction: column;
 	align-items: flex-end;
-	align-self: flex-end;
 	margin: 0 12px;
 
 	line-height: 18px;
