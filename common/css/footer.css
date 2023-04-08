@@ -45,17 +45,3 @@ footer hr {
 .ow-me-foot#linkedin:hover {
 	color: rgb(52, 99, 189);
 }
-@media (hover: none) {
-	.ow-me-foot#github:hover {
-		color: black;
-	}
-	.ow-me-foot#twitter:hover {
-		color: rgb(77, 147, 227);
-	}
-	.ow-me-foot#musescore:hover {
-		color: rgb(59, 110, 179);
-	}
-	.ow-me-foot#linkedin:hover {
-		color: rgb(52, 99, 189);
-	}
-}
