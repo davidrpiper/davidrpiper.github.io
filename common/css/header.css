@@ -19,7 +19,8 @@ header hr {
 
 .header-wrapper {
 	display: flex;
-	flex-direction: column;
+	flex-direction: row;
+	justify-content: space-between;
 }
 
 .header-me {
@@ -41,8 +42,6 @@ header hr {
 	border-radius: 64px;
 	border: 1px solid rgba(0, 0, 0, 0.25);
 	overflow: hidden;
-
-	margin-bottom: 8px;
 }
 
 .header-name-and-sub {
@@ -76,31 +75,34 @@ header hr {
 
 .header-links {
 	display: flex;
-	flex-direction: row;
-	align-items: center;
-	justify-content: space-between;
+	flex-direction: column;
+	align-items: flex-end;
 	margin: auto 12px;
 
-	overflow-x: auto;
+	min-width: 70px;
 }
 
 .header-link {
 	display: flex;
 	flex-direction: column;
-	align-items: center;
+	margin: 4px 0;
 
-	text-decoration: none;
-	color: inherit;
+	-moz-transition: all .1s ease-in;
+    -o-transition: all .1s ease-in;
+    -webkit-transition: all .1s ease-in;
+    transition: all .1s ease-in;
+    text-decoration: none;
+    color: gray;
+    filter: grayscale(1);
 }
 
-.header-img {
-	padding-bottom: 8px;
+.header-link:hover {
+	color: black;
+	filter: grayscale(0);
 }
-
-.header-separator {
-	height: 42px;
-	width: 0px;
-
-	border-left: 1px solid gray;
-	border-right: 1px solid gray;
+@media (hover: none) {
+	.header-link {
+		color: black;
+		filter: grayscale(0);
+	}
 }
