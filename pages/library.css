@@ -26,12 +26,12 @@ section {
 	margin: 8px auto;
 }
 
-.present-day-container {
+.tiers-container {
 	display: flex;
 	flex-direction: row;
 	align-items: center;
 
-	margin: 0 8px 8px 56px;
+	margin: 8px 8px 8px 48px;
 	color: grey;
 }
 
@@ -44,6 +44,10 @@ section {
     -o-transform: rotate(-90deg);
     -ms-transform: rotate(-90deg);
     transform: rotate(-90deg);
+}
+
+.unread {
+	opacity: 0.6;
 }
 
 .entries {
@@ -79,17 +83,29 @@ section {
 	background-color: lightgrey;
 }
 
-.date {
+.emoji {
 	display: flex;
 	align-items: center;
 	justify-content: flex-end;
 
-	width: 100px;
-	min-width: 100px;
-	max-width: 100px;
+	margin: 0 8px;
+}
+
+.year {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+
+	width: 40px;
+	min-width: 40px;
+	max-width: 40px;
 
 	margin-right: 16px;
 	color: grey;
+}
+
+.info {
+	flex-grow: 1;
 }
 
 .link {
@@ -98,14 +114,10 @@ section {
 	flex: 1;
 }
 
-.tags {
+.tier {
 	display: flex;
 	align-items: center;
 	justify-content: flex-end;
-
-	width: 100px;
-	min-width: 100px;
-	max-width: 100px;
 
 	margin-left: 8px;
 	margin-right: 8px;
