@@ -94,7 +94,7 @@ header hr {
     transition: all .1s ease-in;
     text-decoration: none;
     color: gray;
-    filter: grayscale(1);
+    filter: grayscale(0);
 }
 .header-link-last {
 	margin-bottom: 0;
@@ -103,12 +103,6 @@ header hr {
 .header-link:hover {
 	color: black;
 	filter: grayscale(0);
-}
-@media (hover: none) {
-	.header-link {
-		color: gray;
-		filter: grayscale(0);
-	}
 }
 
 .header-link#current {
