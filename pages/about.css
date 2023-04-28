@@ -1,0 +1,50 @@
+body {
+	/* Sans reset.css */
+	margin: 0;
+	line-height: 1;
+	font-family: sans-serif;
+}
+
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+	margin: 16px auto;
+	max-width: 1024px;
+}
+
+section {
+	width: 95%;
+	max-width: 980px;
+	margin: 0 8px 8px 8px;
+
+	line-height: 1.6;
+	font-size: 18px;
+}
+
+h1,h2,h3 {
+	line-height: 1.2;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.post-header {
+	display: flex;
+	flex-direction: row;
+	align-items: last baseline;
+}
+
+.post-header > * {
+	margin-bottom: 0;
+}
+
+.meta {
+	opacity: 0.5;
+	margin-left: 8px;
+	min-width: 106px;
+}
