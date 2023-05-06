@@ -9,7 +9,7 @@
   </author>
   <link href="https://davids.town/" rel="self" />
   <id>urn:uuid:6018DCD4-2BBD-45D6-8745-c0deba55c1ef</id>
-  <updated>2023-04-28T10:19:51Z</updated>
+  <updated>2023-05-06T05:38:34Z</updated>
 
   <entry>
     <title>Origin</title>
@@ -199,6 +199,21 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <h1>Best news ever</h1><p>A whole year later:</p><p><img src="/blog-assets/b6-normal.png" width="700" title="Vitamin B6 levels are normal again!" style="border: 1px solid gray;"></img></p><p>Down from 784 nmol/L on January 27, 2023.</p><p>Which means the elimination half-life was about 20 days, not 33 days.</p><p>Which means on October 10, 2022 — the day I stopped taking the magnesium — my test would have been roughly 33,645 nmol/L, or ~300x the healthy limit.</p><p>It's nice to be normal again.</p>
+      </div>
+    </content>
+    <author>
+      <name>David Piper</name>
+      <email>dpiper.public@gmail.com</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Ranna's Lullaby</title>
+    <link rel="alternate" type="text/html" href="https://davids.town/rannas-lullaby"/>
+    <id>urn:uuid:3A6F321A-CAEB-44CE-ABC1-84477805B808</id>
+    <updated>2023-04-27T00:00:00Z</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <h1>Ranna's Lullaby</h1><p>I finally got back to a piece I started on April 19 last year.</p><p>"Ranna, the Sleepbringer" is a character from the <a href="https://en.wikipedia.org/wiki/Old_Kingdom_(book_series)">Old Kingdom series</a> by <a href="https://garthnix.com/">Garth Nix</a>.</p><p>The first book, Sabriel, recently celebrated its 25th anniversary.</p><p>I liked the piece so much that I asked professional Australian pianist and Twitch streamer <a href="https://www.youtube.com/@lara6683">Lara de Wit</a> to play it.</p><p>🎼 <a href="https://musescore.com/user/27393070/scores/10660186">Sheet music</a> </p><iframe width="560" height="315" src="https://www.youtube.com/embed/u0_Bqjm_xxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="display: block;margin: 16px auto;border: black 1px solid;"></iframe>
       </div>
     </content>
     <author>
