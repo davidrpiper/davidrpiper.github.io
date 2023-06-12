@@ -9,7 +9,7 @@
   </author>
   <link href="https://davids.town/" rel="self" />
   <id>urn:uuid:6018DCD4-2BBD-45D6-8745-c0deba55c1ef</id>
-  <updated>2023-05-06T05:38:34Z</updated>
+  <updated>2023-06-12T00:06:21Z</updated>
 
   <entry>
     <title>Origin</title>
@@ -214,6 +214,21 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <h1>Ranna's Lullaby</h1><p>I finally got back to a piece I started on April 19 last year.</p><p>"Ranna, the Sleepbringer" is a character from the <a href="https://en.wikipedia.org/wiki/Old_Kingdom_(book_series)">Old Kingdom series</a> by <a href="https://garthnix.com/">Garth Nix</a>.</p><p>The first book, Sabriel, recently celebrated its 25th anniversary.</p><p>I liked the piece so much that I asked professional Australian pianist and Twitch streamer <a href="https://www.youtube.com/@lara6683">Lara de Wit</a> to play it.</p><p>🎼 <a href="https://musescore.com/user/27393070/scores/10660186">Sheet music</a> </p><iframe width="560" height="315" src="https://www.youtube.com/embed/u0_Bqjm_xxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="display: block;margin: 16px auto;border: black 1px solid;"></iframe>
+      </div>
+    </content>
+    <author>
+      <name>David Piper</name>
+      <email>dpiper.public@gmail.com</email>
+    </author>
+  </entry>
+  <entry>
+    <title>First attempt at orchestral composing</title>
+    <link rel="alternate" type="text/html" href="https://davids.town/orchestral-scoring-1-wip"/>
+    <id>urn:uuid:96338399-5983-4D48-B6DD-2E588B66FD77</id>
+    <updated>2023-06-11T00:00:00Z</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <h1>First attempt at orchestral composing</h1><p>Sam and I are composing an orchestral piece. The result so far sounds a bit like a mash of superhero movie and military observance.</p><p>A few thoughts:</p><ul><li>Phrases of 7 bars are tricky</li><li>Samples sound clunky for whole sections, and even clunkier for solos</li><li>French Horns are way quieter than I expected</li><li>You can soften or harden a soloist's instrument by doubling with other instruments doubling with other instruments</li><li>That sort of means it's not a solo anymore though</li></ul><p>🔊 <a href="/blog-assets/audio/SectionsGoodEnoughToName.m4a">Audio v0.1</a> </p>
       </div>
     </content>
     <author>
