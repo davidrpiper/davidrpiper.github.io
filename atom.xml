@@ -9,7 +9,7 @@
   </author>
   <link href="https://davids.town/" rel="self" />
   <id>urn:uuid:6018DCD4-2BBD-45D6-8745-c0deba55c1ef</id>
-  <updated>2023-06-12T00:06:21Z</updated>
+  <updated>2023-08-06T06:37:06Z</updated>
 
   <entry>
     <title>Origin</title>
@@ -229,6 +229,21 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <h1>First attempt at orchestral composing</h1><p>Sam and I are composing an orchestral piece. The result so far sounds a bit like a mash of superhero movie and military observance.</p><p>A few thoughts:</p><ul><li>Phrases of 7 bars are tricky</li><li>Samples sound clunky for whole sections, and even clunkier for solos</li><li>French Horns are way quieter than I expected</li><li>You can soften or harden a soloist's instrument by doubling with other instruments doubling with other instruments</li><li>That sort of means it's not a solo anymore though</li></ul><p>🔊 <a href="/blog-assets/audio/SectionsGoodEnoughToName.m4a">Audio v0.1</a> </p>
+      </div>
+    </content>
+    <author>
+      <name>David Piper</name>
+      <email>dpiper.public@gmail.com</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Super Mario Bros. Medley</title>
+    <link rel="alternate" type="text/html" href="https://davids.town/super-mario-bros-medley"/>
+    <id>urn:uuid:E2FE3112-FC2D-49C4-B947-8B99D453E441</id>
+    <updated>2023-08-06T00:00:00Z</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <h1>Super Mario Bros. Medley</h1><p>Years ago, I came across <a href="https://en.wikipedia.org/wiki/Sonya_Belousova">Sonya Belousova's</a> <a href="https://www.youtube.com/watch?v=lID0A5p0_SY">incredible arrangement</a> of the Super Mario Bros. themes.</p><p>Back then, I remember thinking "I wish I could play that well". And I still can't, but I'm getting closer, so I spent some time transcribing the arrangement.</p><ul><li>Part 1: Overworld Theme (WIP)</li><li>Part 2: <a href="/blog-assets/2-Underworld.pdf">Underworld Theme</a> (<a href="https://musescore.com/user/27393070/scores/11713435">Musescore</a>)</li><li>Part 3: <a href="/blog-assets/3-Underwater.pdf">Underwater Theme</a> (<a href="https://musescore.com/user/27393070/scores/11705428">Musescore</a>)</li><li>Part 4: <a href="/blog-assets/4-Fanfare.pdf">Flagpole Fanfare</a> (<a href="https://musescore.com/user/27393070/scores/11705455">Musescore</a>)</li></ul><p>And by "some time" I mean "way too much time". But it's been fun. And now I get to learn them!</p><p>The Overworld Theme is the hardest, I'm about 30% done (6 Aug 2023), but I'll probably be a bit short on time in the next few months so I thought I'd upload the other three before I've finished the full set.</p><p>I'm really, really happy with how they came out.</p>
       </div>
     </content>
     <author>
