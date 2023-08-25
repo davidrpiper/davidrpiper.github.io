@@ -9,7 +9,7 @@
   </author>
   <link href="https://davids.town/" rel="self" />
   <id>urn:uuid:6018DCD4-2BBD-45D6-8745-c0deba55c1ef</id>
-  <updated>2023-08-14T12:31:45Z</updated>
+  <updated>2023-08-25T09:24:19Z</updated>
 
   <entry>
     <title>Origin</title>
@@ -259,6 +259,21 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <h1>Brewster-Jones' compositions for Edith Piper</h1><p>At school, my piano teacher gave me an old Australian piece by Hooper Brewster-Jones called 'Desolation'. I didn't really understand it at the time, but I could play it well enough to pass an exam.</p><p>Back in April this year, I went looking for some other Brewster-Jones pieces to learn, and I found a lot in the Special Collections of the Adelaide University library.</p><p>And it turns out, a "Miss Edith Piper" was a student of his! He wrote at least <a href="https://www.adelaide.edu.au/library/special/mss/brewster_jones/series-1/">3 pieces for her</a>.</p><p>Also two notes in <a href="https://www.adelaide.edu.au/library/special/mss/brewster_jones/series-8/">Series 8</a>.</p><p>And it looks like they <a href="https://www.adelaide.edu.au/library/special/mss/brewster_jones/series-9/">performed together</a>: “Pastoral Concerto for 2 Pianos - Edith Piper and H. Brewster-Jones”.</p><p>I also found some newspaper appearances:</p><ul><li><a href="trove.nla.gov.au/newspaper/article/64301495">28 July, 1923</a></li><li><a href="trove.nla.gov.au/newspaper/article/63713293">10 April, 1925</a></li><li><a href="trove.nla.gov.au/newspaper/article/63722745">11 April, 1925</a> (same article)</li><li><a href="trove.nla.gov.au/newspaper/article/47027728">16 October, 1926</a></li></ul><p>After some family confirmation, not only do several people remember her well, they also remember she worked with Hooper Brewster-Jones! I wonder if my piano teacher ever knew the connection.</p><p>So naturally I requested the manuscripts from the library, and transcribed them:</p><ul><li><a href="/blog-assets/brewster-jones-prelude-edith-piper.pdf">Prelude</a> (<a href="https://musescore.com/user/27393070/scores/10770409">Musescore</a>)</li><li><a href="/blog-assets/brewster-jones-portrait-waltz-edith-piper.pdf">Portrait Waltz</a> (<a href="https://musescore.com/user/27393070/scores/11779600">Musescore</a>)</li></ul><p>There are some other transcriptions I might get around to, but these are the main ones. And they really, really need a human performance to do them justice.</p>
+      </div>
+    </content>
+    <author>
+      <name>David Piper</name>
+      <email>dpiper.public@gmail.com</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Pikachu</title>
+    <link rel="alternate" type="text/html" href="https://davids.town/pikachu"/>
+    <id>urn:uuid:DB7A4093-F54B-4C52-944E-190BD46BA99B</id>
+    <updated>2023-08-25T00:00:00Z</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <h1>Pikachu</h1><p><img src="/blog-assets/Pikachu-Float.gif" width="800px" title="Pikachu, floating"></img></p>
       </div>
     </content>
     <author>
