@@ -19,10 +19,10 @@ footer hr {
 
 .footer-content {
 	display: flex;
-	flex-direction: row;
+	flex-direction: row-reverse;
 	align-items: center;
-	justify-content: space-between;
 	margin: auto 12px;
+	gap: 16px;
 }
 
 .ow-me-foot {
@@ -35,6 +35,9 @@ footer hr {
 
 .ow-me-foot#github:hover {
 	color: black;
+}
+.ow-me-foot#bluesky:hover {
+	color: rgb(17, 133, 254);
 }
 .ow-me-foot#twitter:hover {
 	color: rgb(77, 147, 227);
